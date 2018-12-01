@@ -1,0 +1,10 @@
+# ML_Resouces
+
+
+This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning. This isn’t meant to be comprehensive, and in fact is still missing the vast majority of my favorite explainers. Rather, it’s just a smattering of resources I’ve found myself turning to multiple times and thus would like to have in one place.
+
+More resources : 
+
+* [ML Resources](https://sgfin.github.io/learning-resources/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_208&fbclid=IwAR3xRSw6YB32_kORcOoaqVfGTTSl4rAgPmEa7RbhgjtwQvEBlwQ_1USTMDc)
+
+* [Machine Learning Videos](https://github.com/dustinvtran/ml-videos?fbclid=IwAR1VUpg8CG1ty7y1ysyHwrEnUfNms0hbAxOe7cuUowsYTKhCv1CjwFgY0M0)
