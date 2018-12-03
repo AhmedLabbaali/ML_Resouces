@@ -15,3 +15,5 @@ These will keep you updated :
 * [Montreal.AI](https://www.facebook.com/groups/MontrealAI/?ref=bookmarks)
 
 * [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+
+* [Deep Reinforcement Learning Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
