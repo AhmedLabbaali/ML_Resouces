@@ -1,6 +1,8 @@
 # ML_Resouces
 
-Above You can find a bunch of Machine Learning courses .
+Here You can find a bunch of Machine Learning courses :
+
+[Machine Learning Resources] (https://github.com/AhmedLabbaali/ML_Resouces/blob/master/ML_Resources.md)
 
 This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning. This isn’t meant to be comprehensive, and in fact is still missing the vast majority of my favorite explainers. Rather, it’s just a smattering of resources I’ve found myself turning to multiple times and thus would like to have in one place.
 
