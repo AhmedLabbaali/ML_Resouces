@@ -9,3 +9,9 @@ More resources :
 * [ML Resources](https://sgfin.github.io/learning-resources/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_208&fbclid=IwAR3xRSw6YB32_kORcOoaqVfGTTSl4rAgPmEa7RbhgjtwQvEBlwQ_1USTMDc)
 
 * [Machine Learning Videos](https://github.com/dustinvtran/ml-videos?fbclid=IwAR1VUpg8CG1ty7y1ysyHwrEnUfNms0hbAxOe7cuUowsYTKhCv1CjwFgY0M0)
+
+These will keep you updated :
+
+* [Montreal.AI](https://www.facebook.com/groups/MontrealAI/?ref=bookmarks)
+
+* [Two Minute Papers](https://www.youtube.com/user/keeroyz)
