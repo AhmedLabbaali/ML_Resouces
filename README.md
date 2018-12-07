@@ -18,6 +18,8 @@ More resources :
 
 These will keep you updated :
 
+* [AI 101: The First World-Class Overview of AI for the General Public](https://montrealartificialintelligence.com/academy/?fbclid=IwAR03hRJO5qxKFBWdwLxlomwBE0Lv-gsOUDR9GxLIzHFgn2EYpopoHHO05Pk)
+
 * [Montreal.AI](https://www.facebook.com/groups/MontrealAI/?ref=bookmarks)
 
 * [Two Minute Papers](https://www.youtube.com/user/keeroyz)
