@@ -25,3 +25,6 @@ These will keep you updated :
 * [Statistical Learning Theory and Applications, Fall 2018](http://www.mit.edu/~9.520/fall18/)
 
 * [Deep Reinforcement Learning Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+
+* [Introductory Machine Learning Notes1 Lorenzo Rosasco](http://lcsl.mit.edu/courses/ml/1617/MLNotes.pdf)
+
