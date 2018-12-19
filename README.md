@@ -8,6 +8,8 @@ Here You can find a bunch of Machine Learning courses :
 
 * [Inference and Representation (DS-GA-1005, CSCI-GA.2569)](https://github.com/joanbruna/ir17)
 
+* [Algorithmic Foundations of Learning](http://www.stats.ox.ac.uk/~rebeschi/teaching/AFoL/18/)
+
 This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning. This isn’t meant to be comprehensive, and in fact is still missing the vast majority of my favorite explainers. Rather, it’s just a smattering of resources I’ve found myself turning to multiple times and thus would like to have in one place.
 
 More resources : 
