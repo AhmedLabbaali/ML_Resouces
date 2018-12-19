@@ -22,6 +22,6 @@ These will keep you updated :
 
 * [Montreal.AI](https://www.facebook.com/groups/MontrealAI/?ref=bookmarks)
 
-* [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+* [Statistical Learning Theory and Applications, Fall 2018](http://www.mit.edu/~9.520/fall18/)
 
 * [Deep Reinforcement Learning Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
