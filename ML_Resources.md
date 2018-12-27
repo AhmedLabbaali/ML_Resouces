@@ -150,6 +150,8 @@
 - Deep Generative Models :
 
   [CS 236: Deep Generative Models](https://deepgenerativemodels.github.io/)
+  
+   [Deep Generative Models](https://cs.nyu.edu/courses/spring18/CSCI-GA.3033-022/)
 
 - Hugo Larochelle , Neural Networks :
 
