@@ -12,6 +12,12 @@ Here You can find a bunch of Machine Learning courses :
 
 * [EPFL Course - Optimization for Machine Learning - CS-439](https://github.com/epfml/OptML_course)
 
+* [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
+
+* [Introduction to Statistics & Econometrics (Spring 2018, in French)](http://marcocuturi.net/ise.html)
+
+* [Stochastic Optimization and Automatic Differentiation for Machine Learning (Spring 2018)](http://marcocuturi.net/soadml.html)
+
 This is a not-particularly-systematic attempt to curate a handful of my favorite resources for learning statistics and machine learning. This isn’t meant to be comprehensive, and in fact is still missing the vast majority of my favorite explainers. Rather, it’s just a smattering of resources I’ve found myself turning to multiple times and thus would like to have in one place.
 
 More resources : 
