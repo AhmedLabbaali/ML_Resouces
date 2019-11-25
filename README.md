@@ -1,4 +1,4 @@
-# ML_Resouces
+# ML_Resources
 
 Here You can find a bunch of Machine Learning courses :
 
